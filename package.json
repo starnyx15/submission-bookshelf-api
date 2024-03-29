@@ -1,10 +1,10 @@
 {
-  "name": "https://github.com/starnyx15/submission-bookshelf-api.git",
+  "name": "submission-bookshelf-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"# submission-bookshelf-api\" >> README.md"
+    "test": "echo \" Error:no test specified\" && exit 1"
   },
   "author":"",
   "license":"ISC"
